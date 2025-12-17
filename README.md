@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate software engineer specializing in full-stack web development with the MERN stack. I build scalable, production-ready applications with secure authentication, real-time features, and cloud deployment. 
