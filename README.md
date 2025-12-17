@@ -27,37 +27,25 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 
 <p align="center">
 <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,aws,tailwind,git,postman,vscode&perline=6" />
+ <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,react,redux,nodejs,express,mongodb,tailwind,aws,vercel,git,github,postman,vscode,nginx,firebase,postgresql,java,linux,cloudflare,redis&theme=dark" />
 </a>
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,django,figma,linux,redis,cloudflare,netlify,heroku,raspberrypi&theme=dark&perline=11" />
-</div>
+## 🏆 Achievements
 
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Achievement | 📊 Details |
+| Achievement | Details |
 |:---|:---|
-| 🥇 **Academic Excellence** | Topper in BSc IT, Mumbai University |
-| 💻 **Problem Solving** | 50+ DSA Problems Solved (LeetCode, HackerRank) |
-| 🚀 **Project Portfolio** | Full Stack Projects with Real-world Features |
-| 📈 **Continuous Learning** | Active contributor to open-source projects |
-
-</div>
-
----
+| **Academic Excellence** | Rank-1 BSc IT Graduate (CGPA: 9.77/10) |
+| **Technical Certifications** | Node.js & Frontend Development (OneRoadmap) |
+| **Industry Experience** | Deloitte Data Analysis Job Simulation (Forage) |
+| **Project Deployment** | Deployed full-stack applications with real-time features |
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharma-ayush-20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-ayush-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-ayush-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=scss,jupyter%20notebook,python,java,c%2B%2B"/>
 
 </div>
 
@@ -66,8 +54,6 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharma-ayush-20&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
-
----
 
 ## 💼 Open for Opportunities
 
@@ -79,8 +65,6 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 
 </div>
 
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -90,8 +74,6 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 
 
 </div>
-
----
 
 <div align="center">
 
@@ -103,8 +85,6 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%" />
