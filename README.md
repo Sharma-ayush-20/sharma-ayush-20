@@ -23,13 +23,11 @@ I'm a passionate software engineer specializing in full-stack web development wi
 
 I believe in writing clean, maintainable code and creating solutions that are both efficient and user-friendly.
 
----
+## 🛠️ Languages and Tools:
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,tailwind,aws,vercel,git,github,postman,vscode,nginx,firebase,postgresql,socketio&theme=dark&perline=11" />
-</div>
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=2&line1=javascript,typescript,react,node.js,express,mongodb&line2=aws,git,tailwind,html,css,postman&theme=github_dark" alt="My Tech Stack" />
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,django,figma,linux,redis,cloudflare,netlify,heroku,raspberrypi&theme=dark&perline=11" />
