@@ -14,15 +14,16 @@
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-🎓 **BSc IT Graduate & University Topper** from Mumbai University  
-💻 **Full Stack MERN Developer** passionate about creating impactful web solutions  
-🚀 **Currently building** AI-integrated web applications and exploring system design  
-🌱 **Always learning** new technologies and contributing to open-source projects  
-☕ **Fun Fact:** I turn coffee into code and believe console.log() is the best debugging tool!  
+I'm a passionate software engineer specializing in full-stack web development with the MERN stack. I build scalable, production-ready applications with secure authentication, real-time features, and cloud deployment. 
 
-**💡 What I'm up to:** Building scalable applications, mastering system design, and helping others learn to code
+- 🎓 **Academic Excellence**: BSc IT Graduate with CGPA 9.77 (University Topper)  
+- 🛠 **Tech Focus**: MERN Stack, TypeScript, Node.js, AWS, Real-time Systems  
+- 🚀 **Current Work**: Building AI-integrated platforms and scalable backend systems  
+- 📈 **Learning**: Advanced system design, microservices, and performance optimization  
+
+I believe in writing clean, maintainable code and creating solutions that are both efficient and user-friendly.
 
 ---
 
