@@ -26,7 +26,9 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=2&line1=javascript,typescript,react,node.js,express,mongodb&line2=aws,git,tailwind,html,css,postman&theme=github_dark" alt="My Tech Stack" />
+<a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,aws,tailwind,git,postman,vscode&perline=6" />
+</a>
 </p>
 
 <div align="center">
