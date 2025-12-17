@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Ayush Sharma
+# 👋 Hi, I'm Ayush Sharma
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%7C+TypeScript+%7C+Cloud+AWS;First+Class+with+Distinction+(CGPA+9.77);Building+Scalable+Web+Applications" alt="Typing SVG" />
 
