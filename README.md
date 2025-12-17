@@ -1,13 +1,13 @@
 <div align="center">
-  
-# 👋 Hi, I'm Ayush Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;BSc+IT+Graduate+%7C+Mumbai+University;Problem+Solver+%26+Tech+Enthusiast;Building+AI-Integrated+Web+Applications" alt="Typing SVG" />
+# 🚀 Ayush Sharma
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%7C+TypeScript+%7C+Cloud+AWS;First+Class+with+Distinction+(CGPA+9.77);Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharma-ayush-20&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sharma-ayush-20?color=58A6FF&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/sharma-ayush-20?color=58A6FF&style=flat-square&logo=github&label=Stars" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sharma-ayush-20&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sharma-ayush-20?color=00D4FF&style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
 </p>
 
 </div>
