@@ -12,7 +12,7 @@
 
 </div>
 
----
+--
 
 ## 👨‍💻 About Me
 
@@ -25,7 +25,7 @@ I'm a passionate software engineer specializing in full-stack web development wi
 
 I believe in writing clean, maintainable code and creating solutions that are both efficient and user-friendly.
 
----
+--
 
 ## 🛠️ Tech Stack & Tools
 
