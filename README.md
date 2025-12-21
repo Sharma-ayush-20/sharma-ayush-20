@@ -44,8 +44,11 @@ I believe in writing clean, maintainable code and creating solutions that are bo
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharma-ayush-20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-ayush-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=scss,jupyter%20notebook,python,java,c%2B%2B"/>
+<!-- Main Stats - JavaScript Focus -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharma-ayush-20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=C9D1D9&hide=issues&custom_title=Sharma%20Ayush's%20GitHub%20Stats"/>
+
+<!-- Languages - Only JavaScript (Custom) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-ayush-20&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0DB4F&text_color=C9D1D9&hide=scss,jupyter%20notebook,python,java,c%2B%2B,css,html,shell&langs_count=5&exclude_repo=node_modules,test,docs"/>
 
 </div>
 
